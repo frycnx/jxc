@@ -1,0 +1,2 @@
+<div class="modal fade" id="ajax-modal" tabindex="-1" role="dialog"><div class="modal-dialog modal-lg"><div class="modal-content"><br/><center><img src="static/img/loading.gif"/></center><br/></div></div></div>
+<script type="text/javascript">function ajaxLoad(url){$('#ajax-modal').modal({show:true,backdrop:false});$.get(url, function(d){$('#ajax-modal .modal-content').html(d)});return false;}</script>

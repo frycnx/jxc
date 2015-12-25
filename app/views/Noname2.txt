@@ -1,0 +1,13 @@
+enquire.js                     一款处理Media Queries的javascript库
+jquery.nicescroll.min.js       制作自定义滚动条的jq插件
+codeprettifier/prettify.js     代码美化+
+jquery.easypiechart.min.js     渲染和制作漂亮的饼图及动画效果
+jquery.sparklines.min.js       来生成静态或动态波谱图表效果
+/form-toggle/toggle.min.js     换元素的可见状态
+jquery.dataTables.min.js       提供了针对表格的排序、浏览器分页、服务器分页、筛选、格式化等功能
+dataTables.bootstrap.js
+
+
+role
+data-toggle
+data-placement
